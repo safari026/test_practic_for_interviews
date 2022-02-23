@@ -1,1 +1,15 @@
-# test_practic_for_interviews
+## Темы к повторению/изучению
+- [ ] Регулярные выражния
+    - [ ] [Написать свой небольшой шаблонизатор](https://github.com/safari026/test_practic_for_interviews/issues/1)
+    - [ ] [Пройти https://regexlearn.com/](https://github.com/safari026/test_practic_for_interviews/issues/1)
+- [ ] Структуры данных (Вернуться как только будет понятно по курсу)
+    - [ ] Хэш-таблицы
+    - [ ] Очередь
+    - [ ] Куча
+    - [ ] Списки
+    - [ ] ...
+- [ ] Задачи на объекты
+    - [ ] Написать аналог функции path (lodash)
+- [ ] Замыкания и функции
+    - [ ] Throttle (lodash)
+    - [ ] Debounce (lodash)
